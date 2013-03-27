@@ -1,3 +1,5 @@
+jQuery的移动版本。 
+
 # jQuery Mobile [![Build Status](https://travis-ci.org/jquery/jquery-mobile.png?branch=master)](https://travis-ci.org/jquery/jquery-mobile)
 
 This is the main repository for the jQuery Mobile project. From the [official website](http://jquerymobile.com):
